@@ -1,4 +1,5 @@
-🌍 Global Energy Trends: A Comprehensive Analysis with Power BI
+#🌍 Global Energy Trends: A Comprehensive Analysis with Power BI
+
 📌 Project Overview
 The Global Energy Trends project is a Power BI Data Analytics Dashboard designed to analyze worldwide energy consumption patterns, compare renewable vs. non-renewable sources, and provide insights into energy sustainability.
 
